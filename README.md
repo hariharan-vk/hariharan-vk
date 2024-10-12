@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hariharan Vijayakumar
 
-<!--
-**hariharan-vk/hariharan-vk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiastic class 12 student passionate about computer science and dedicated to teamwork on the cricket and volleyball fields.
 
-Here are some ideas to get you started:
+### Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Class XII
+
+Currently studying
+Year of passing 2025
+Government higher secondary school, Manampathy.
+
+#### SSLC
+
+Score: 83.8%
+Year of passing 2023
+Government higher secondary school, Manampathy.
+
+### Languages
+
+1. Tamil
+2. English
