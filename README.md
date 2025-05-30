@@ -1,22 +1,37 @@
-## Hariharan Vijayakumar
+# Hariharan Vijayakumar
+	
+Email: hariharanv1725@gmail.com
 
-Enthusiastic class 12 student passionate about computer science and dedicated to teamwork on the cricket and volleyball fields.
+## Career Objective
 
-### Education
+Motivated and tech-savvy B.Tech Information Technology student seeking an internship or entry-level position in the field of software development, web technologies, or data analytics. Eager to apply academic knowledge, enhance technical skills, and contribute to innovative projects in  a dynamic and growth-oriented organization.
 
-#### Class XII
+## Education 
 
-Currently studying
-Year of passing 2025
-Government higher secondary school, Manampathy.
 
-#### SSLC
+Class | Board | Score (percentage) | Year of passing | School
+--- | --- | --- | --- | ---
+SSLC | State Board | 83.8 % | 2023 | Government higher secondary school, Manampathy
+HSE | State Board | 84.3 % | 2025 | Government higher secondary school, Manampathy
 
-Score: 83.8%
-Year of passing 2023
-Government higher secondary school, Manampathy.
+## Area of Interest
 
-### Languages
+- Python 
+- C++
+ 
+## Bio-Data
 
-1. Tamil
-2. English
+**Father's Name**<br>
+Vijayakumar
+
+**Father's Occupation**<br>
+Weaver
+
+**Mother's Name**<br>
+Devika
+
+**Mother's Occupation**<br>
+House wife 
+
+**Residence**<br>
+Kanchipuram, Tamil Nadu - 603403.
